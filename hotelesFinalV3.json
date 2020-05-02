@@ -1,0 +1,840 @@
+[
+    {
+      "id": 0,
+      "name": "Decameron",
+      "category": "2",
+      "address": "Rivadavia 2050",
+      "booking": "2",
+      "tripadvisor": "3",
+      "type": {
+        "family": true,
+        "kid_pet": false,
+        "pet": false
+      },
+      "gym": true,
+      "spa": true,
+      "wifi": false,
+      "cat": true,
+      "english": false,
+      "spanish": true,
+      "chinese": false,
+      "day": "1",
+      "price": "10",
+      "money": {
+        "heuro": true,
+        "hbitcoin": true
+      },
+      "manager": "Juan Romero",
+      "habitaciones": [
+        {
+          "idHbitacion": "Decameron1",
+          "tipo": "Suite",
+          "capacidad": 2,
+          "adaptado_discapacitado": true,
+          "caracteristicas": {
+            "instalacion_lujo": true,
+            "tv": "58 pulgadas",
+            "cafeteria": true,
+            "telefono": true,
+            "caja_fuerte": true,
+            "camas": "king",
+            "terraza": false,
+            "balcon": true,
+            "vistas": {
+              "interior": false,
+              "vistaJardin": false,
+              "vistaMar": true
+            },
+            "wc": {
+              "secador": true,
+              "ducha": true,
+              "bañera": true,
+              "jacuzzi": true
+            },
+            "minibar": true,
+            "minibarFree": true
+          },
+          "servicios": {
+            "roomService": true,
+            "lavanderia": true
+          },
+          "precios Oficial": {
+            "precio_Base": {
+              "neto": 80,
+              "impuesto": 21,
+              "comision": 10,
+              "precio total": 92.1,
+              "moneda": [
+                "euros"
+              ]
+            }
+          },
+          "agregadores": [
+            {
+              "nombre": "Antares",
+              "temporada": "alta",
+              "comision": 10,
+              "precio": 102.1
+            },
+            {
+              "nombre": "Antares",
+              "temporada": "baja",
+              "comision": 5,
+              "precio": 97.1
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "alta",
+              "comision": 2,
+              "precio": 94.1
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "baja",
+              "comision": 1,
+              "precio": 93.1
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "alta",
+              "comision": 15,
+              "precio": 107.1
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "baja",
+              "comision": 10,
+              "precio": 102.1
+            }
+          ]
+        },
+        {
+          "idHbitacion": "Decameron2",
+          "tipo": "doble",
+          "capacidad": 1,
+          "adaptado_discapacitado": false,
+          "caracteristicas": {
+            "instalacion_lujo": false,
+            "tv": "38 pulgadas",
+            "cafeteria": false,
+            "telefono": true,
+            "caja_fuerte": false,
+            "camas": "doble",
+            "terraza": false,
+            "balcon": false,
+            "vistas": {
+              "interior": true,
+              "vistaJardin": false,
+              "vistaMar": false
+            },
+            "wc": {
+              "secador": true,
+              "ducha": true,
+              "bañera": true,
+              "jacuzzi": true
+            },
+            "minibar": false,
+            "minibarFree": false
+          },
+          "servicios": {
+            "roomService": false,
+            "lavanderia": false
+          },
+          "precios Oficial": {
+            "precio_Base": {
+              "neto": 50,
+              "impuesto": 21,
+              "comision": 10,
+              "precio total": 72.6,
+              "moneda": [
+                "euros"
+              ]
+            }
+          },
+          "agregadores": [
+            {
+              "nombre": "Antares",
+              "temporada": "alta",
+              "comision": 10,
+              "precio": 82.6
+            },
+            {
+              "nombre": "Antares",
+              "temporada": "baja",
+              "comision": 5,
+              "precio": 77.6
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "alta",
+              "comision": 2,
+              "precio": 74.6
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "baja",
+              "comision": 1,
+              "precio": 73.6
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "alta",
+              "comision": 15,
+              "precio": 87.6
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "baja",
+              "comision": 10,
+              "precio": 82.6
+            }
+          ]
+        },
+        {
+          "idHbitacion": "Decameron3",
+          "tipo": "simple",
+          "capacidad": 1,
+          "adaptado_discapacitado": false,
+          "caracteristicas": {
+            "instalacion_lujo": false,
+            "tv": "28 pulgadas",
+            "cafeteria": false,
+            "telefono": false,
+            "caja_fuerte": false,
+            "camas": "simple",
+            "terraza": false,
+            "balcon": false,
+            "vistas": {
+              "interior": true,
+              "vistaJardin": false,
+              "vistaMar": false
+            },
+            "wc": {
+              "secador": true,
+              "ducha": true,
+              "bañera": false,
+              "jacuzzi": false
+            },
+            "minibar": false,
+            "minibarFree": false
+          },
+          "servicios": {
+            "roomService": false,
+            "lavanderia": false
+          },
+          "precios Oficial": {
+            "precio_Base": {
+              "neto": 40,
+              "impuesto": 21,
+              "comision": 10,
+              "precio total": 60.5,
+              "moneda": [
+                "euros"
+              ]
+            }
+          },
+          "agregadores": [
+            {
+              "nombre": "Antares",
+              "temporada": "alta",
+              "comision": 10,
+              "precio": 70.5
+            },
+            {
+              "nombre": "Antares",
+              "temporada": "baja",
+              "comision": 5,
+              "precio": 65.5
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "alta",
+              "comision": 2,
+              "precio": 62.5
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "baja",
+              "comision": 1,
+              "precio": 63.5
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "alta",
+              "comision": 15,
+              "precio": 75.5
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "baja",
+              "comision": 10,
+              "precio": 70.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Aqua",
+      "category": "4",
+      "address": "las plazas 2",
+      "booking": "1",
+      "tripadvisor": "3",
+      "type": {
+        "family": false,
+        "kid_pet": true,
+        "pet": false
+      },
+      "gym": false,
+      "spa": true,
+      "rent": [
+        "hbicycle"
+      ],
+      "wifi": true,
+      "cat": true,
+      "english": true,
+      "spanish": true,
+      "chinese": false,
+      "day": "1",
+      "price": "15",
+      "money": {
+        "heuro": true,
+        "hbitcoin": true,
+        "hdolar": true
+      },
+      "manager": "Maria Gimenez",
+      "habitaciones": [
+        {
+          "idHbitacion": "aqua1",
+          "tipo": "simple",
+          "capacidad": 1,
+          "adaptado_discapacitado": true,
+          "caracteristicas": {
+            "instalacion_lujo": false,
+            "tv": "58 pulgadas",
+            "cafeteria": false,
+            "telefono": false,
+            "caja_fuerte": false,
+            "camas": "simple",
+            "terraza": false,
+            "balcon": true,
+            "vistas": {
+              "interior": true,
+              "vistaJardin": false,
+              "vistaMar": false
+            },
+            "wc": {
+              "secador": false,
+              "ducha": false,
+              "bañera": false,
+              "jacuzzi": false
+            },
+            "minibar": false,
+            "minibarFree": false
+          },
+          "servicios": {
+            "roomService": false,
+            "lavanderia": false
+          },
+          "precios Oficial": {
+            "precio_Base": {
+              "neto": 30,
+              "impuesto": 21,
+              "comision": 10,
+              "precio total": 48.4,
+              "moneda": [
+                "euros"
+              ]
+            }
+          },
+          "agregadores": [
+            {
+              "nombre": "Antares",
+              "temporada": "alta",
+              "comision": 10,
+              "precio": 58.4
+            },
+            {
+              "nombre": "Antares",
+              "temporada": "baja",
+              "comision": 5,
+              "precio": 53.4
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "alta",
+              "comision": 2,
+              "precio": 50.4
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "baja",
+              "comision": 1,
+              "precio": 49.4
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "alta",
+              "comision": 15,
+              "precio": 63.4
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "baja",
+              "comision": 10,
+              "precio": 58.4
+            }
+          ]
+        },
+        {
+          "idHbitacion": "aqua2",
+          "tipo": "doble",
+          "capacidad": 1,
+          "adaptado_discapacitado": false,
+          "caracteristicas": {
+            "instalacion_lujo": false,
+            "tv": "38 pulgadas",
+            "cafeteria": false,
+            "telefono": true,
+            "caja_fuerte": false,
+            "camas": "doble",
+            "terraza": false,
+            "balcon": false,
+            "vistas": {
+              "interior": true,
+              "vistaJardin": false,
+              "vistaMar": false
+            },
+            "wc": {
+              "secador": true,
+              "ducha": true,
+              "bañera": true,
+              "jacuzzi": true
+            },
+            "minibar": false,
+            "minibarFree": false
+          },
+          "servicios": {
+            "roomService": false,
+            "lavanderia": false
+          },
+          "precios Oficial": {
+            "precio_Base": {
+              "neto": 50,
+              "impuesto": 21,
+              "comision": 10,
+              "precio total": 72.6,
+              "moneda": [
+                "euros"
+              ]
+            }
+          },
+          "agregadores": [
+            {
+              "nombre": "Antares",
+              "temporada": "alta",
+              "comision": 10,
+              "precio": 82.6
+            },
+            {
+              "nombre": "Antares",
+              "temporada": "baja",
+              "comision": 5,
+              "precio": 77.6
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "alta",
+              "comision": 2,
+              "precio": 74.6
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "baja",
+              "comision": 1,
+              "precio": 73.6
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "alta",
+              "comision": 15,
+              "precio": 87.6
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "baja",
+              "comision": 10,
+              "precio": 82.6
+            }
+          ]
+        },
+        {
+          "idHbitacion": "aqua3",
+          "tipo": "simple",
+          "capacidad": 1,
+          "adaptado_discapacitado": false,
+          "caracteristicas": {
+            "instalacion_lujo": false,
+            "tv": "28 pulgadas",
+            "cafeteria": false,
+            "telefono": false,
+            "caja_fuerte": false,
+            "camas": "simple",
+            "terraza": false,
+            "balcon": false,
+            "vistas": {
+              "interior": true,
+              "vistaJardin": false,
+              "vistaMar": false
+            },
+            "wc": {
+              "secador": true,
+              "ducha": true,
+              "bañera": false,
+              "jacuzzi": false
+            },
+            "minibar": false,
+            "minibarFree": false
+          },
+          "servicios": {
+            "roomService": false,
+            "lavanderia": false
+          },
+          "precios Oficial": {
+            "precio_Base": {
+              "neto": 40,
+              "impuesto": 21,
+              "comision": 10,
+              "precio total": 60.5,
+              "moneda": [
+                "euros"
+              ]
+            }
+          },
+          "agregadores": [
+            {
+              "nombre": "Antares",
+              "temporada": "alta",
+              "comision": 10,
+              "precio": 70.5
+            },
+            {
+              "nombre": "Antares",
+              "temporada": "baja",
+              "comision": 5,
+              "precio": 65.5
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "alta",
+              "comision": 2,
+              "precio": 62.5
+            },
+            {
+              "nombre": "Gavilan",
+              "temporada": "baja",
+              "comision": 1,
+              "precio": 63.5
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "alta",
+              "comision": 15,
+              "precio": 75.5
+            },
+            {
+              "nombre": "Tano",
+              "temporada": "baja",
+              "comision": 10,
+              "precio": 70.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ivis",
+      "category": "5",
+      "address": "rotonda 5",
+      "booking": "4",
+      "tripadvisor": "5",
+      "type": {
+        "family": false,
+        "kid_pet": false,
+        "pet": true
+      },
+      "gym": false,
+      "spa": false,
+      "rent": [
+        "hbicycle",
+        "hscooter"
+      ],
+      "wifi": true,
+      "cat": true,
+      "english": true,
+      "spanish": true,
+      "chinese": true,
+      "day": "1",
+      "price": "20",
+      "money": {
+        "heuro": true,
+        "hbitcoin": true,
+        "hdolar": true,
+        "hyen": true,
+        "hlibra": true
+      },
+      "manager": "Micaela Benitez",
+      "habitaciones": [
+        
+          {
+            "idHbitacion": "ivis1",
+            "tipo": "presidencial",
+            "capacidad": 2,
+            "adaptado_discapacitado": true,
+            "caracteristicas": {
+              "instalacion_lujo": true,
+              "tv": "58 pulgadas",
+              "cafeteria": true,
+              "telefono": true,
+              "caja_fuerte": true,
+              "camas": "king",
+              "terraza": false,
+              "balcon": true,
+              "vistas": {
+                "interior": false,
+                "vistaJardin": true,
+                "vistaMar": true
+              },
+              "wc": {
+                "secador": true,
+                "ducha": true,
+                "bañera": true,
+                "jacuzzi": true
+              },
+              "minibar": true,
+              "minibarFree": true
+            },
+            "servicios": {
+              "roomService": true,
+              "lavanderia": true
+            },
+            "precios Oficial": {
+              "precio_Base": {
+                "neto": 180,
+                "impuesto": 21,
+                "comision": 10,
+                "precio total": 192.1,
+                "moneda": [
+                  "dólares"
+                ]
+              }
+            },
+            "agregadores": [
+              {
+                "nombre": "Antares",
+                "temporada": "alta",
+                "comision": 10,
+                "precio": 202.1
+              },
+              {
+                "nombre": "Antares",
+                "temporada": "baja",
+                "comision": 5,
+                "precio": 197.1
+              },
+              {
+                "nombre": "Gavilan",
+                "temporada": "alta",
+                "comision": 2,
+                "precio": 194.1
+              },
+              {
+                "nombre": "Gavilan",
+                "temporada": "baja",
+                "comision": 1,
+                "precio": 193.1
+              },
+              {
+                "nombre": "Tano",
+                "temporada": "alta",
+                "comision": 15,
+                "precio": 207.1
+              },
+              {
+                "nombre": "Tano",
+                "temporada": "baja",
+                "comision": 10,
+                "precio": 202.1
+              }
+            ]
+          },
+          {
+            "idHbitacion": "ivis2",
+            "tipo": "doble",
+            "capacidad": 2,
+            "adaptado_discapacitado": false,
+            "caracteristicas": {
+              "instalacion_lujo": false,
+              "tv": "38 pulgadas",
+              "cafeteria": true,
+              "telefono": true,
+              "caja_fuerte": false,
+              "camas": "doble",
+              "terraza": false,
+              "balcon": false,
+              "vistas": {
+                "interior": false,
+                "vistaJardin": true,
+                "vistaMar": false
+              },
+              "wc": {
+                "secador": true,
+                "ducha": true,
+                "bañera": true,
+                "jacuzzi": true
+              },
+              "minibar": false,
+              "minibarFree": false
+            },
+            "servicios": {
+              "roomService": false,
+              "lavanderia": false
+            },
+            "precios Oficial": {
+              "precio_Base": {
+                "neto": 95,
+                "impuesto": 21,
+                "comision": 10,
+                "precio total": 127,
+                "moneda": [
+                  "dólares"
+                ]
+              }
+            },
+            "agregadores": [
+              {
+                "nombre": "Antares",
+                "temporada": "alta",
+                "comision": 10,
+                "precio": 137
+              },
+              {
+                "nombre": "Antares",
+                "temporada": "baja",
+                "comision": 5,
+                "precio": 132
+              },
+              {
+                "nombre": "Gavilan",
+                "temporada": "alta",
+                "comision": 2,
+                "precio": 129
+              },
+              {
+                "nombre": "Gavilan",
+                "temporada": "baja",
+                "comision": 1,
+                "precio": 128
+              },
+              {
+                "nombre": "Tano",
+                "temporada": "alta",
+                "comision": 15,
+                "precio": 142
+              },
+              {
+                "nombre": "Tano",
+                "temporada": "baja",
+                "comision": 10,
+                "precio": 137
+              }
+            ]
+          },
+          {
+            "idHbitacion": "ivis3",
+            "tipo": "simple",
+            "capacidad": 1,
+            "adaptado_discapacitado": false,
+            "caracteristicas": {
+              "instalacion_lujo": false,
+              "tv": "28 pulgadas",
+              "cafeteria": false,
+              "telefono": false,
+              "caja_fuerte": false,
+              "camas": "simple",
+              "terraza": false,
+              "balcon": false,
+              "vistas": {
+                "interior": true,
+                "vistaJardin": false,
+                "vistaMar": false
+              },
+              "wc": {
+                "secador": false,
+                "ducha": true,
+                "bañera": false,
+                "jacuzzi": false
+              },
+              "minibar": false,
+              "minibarFree": false
+            },
+            "servicios": {
+              "roomService": false,
+              "lavanderia": false
+            },
+            "precios Oficial": {
+              "precio_Base": {
+                "neto": 30,
+                "impuesto": 21,
+                "comision": 10,
+                "precio total": 48.4,
+                "moneda": [
+                  "dólares"
+                ]
+              }
+            },
+            "agregadores": [
+              {
+                "nombre": "Antares",
+                "temporada": "alta",
+                "comision": 10,
+                "precio": 58.4
+              },
+              {
+                "nombre": "Antares",
+                "temporada": "baja",
+                "comision": 5,
+                "precio": 53.4
+              },
+              {
+                "nombre": "Gavilan",
+                "temporada": "alta",
+                "comision": 2,
+                "precio": 50.4
+              },
+              {
+                "nombre": "Gavilan",
+                "temporada": "baja",
+                "comision": 1,
+                "precio": 49.5
+              },
+              {
+                "nombre": "Tano",
+                "temporada": "alta",
+                "comision": 15,
+                "precio": 63.5
+              },
+              {
+                "nombre": "Tano",
+                "temporada": "baja",
+                "comision": 10,
+                "precio": 58.4
+              }
+            ]
+          }
+        
+      ]
+    }
+  ]
